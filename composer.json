@@ -1,0 +1,12 @@
+{
+    "name": "ru0051/sf-composer-ex01",
+    "description": "Test adding library",
+    "authors": [
+        {
+            "name": "Alex"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3"
+    }
+}
